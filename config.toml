@@ -1,6 +1,6 @@
 baseURL = "https://fredflev.github.io"
 languageCode = "en-us"
-title = "Frederic leveque"
+title = "Author"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
 resourceDir = "../resources"
@@ -13,12 +13,12 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "Frederic leveque"
+    title = "Author"
     weight = 1
     contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
   [languages.fr]
-    title = "Frederic leveque Fr"
+    title = "Author Fr"
     weight = 2
     contentDir = "content/fr"
 
