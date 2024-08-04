@@ -1,4 +1,4 @@
 baseURL = 'https://fredflev.github.io'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Frederic leveque'
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
