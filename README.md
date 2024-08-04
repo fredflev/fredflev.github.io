@@ -1,3 +1,3 @@
 # fredflev.github.io
 
-My GitHub Page
+My GitHub Page generated with [hugo](https://gohugo.io/)
